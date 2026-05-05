@@ -1,17 +1,22 @@
 # Hi there, I'm Amanuel Habtamu 👋
 
-I’m a **third-year Software Engineering student** at AASTU, passionate about learning programming and solving problems.  
+I’m a **third-year Software Engineering student** at AASTU, passionate about learning programming and solving problems, and growing as a developer.  
 
-- 💻 **Languages & Technologies:** C++, Python, HTML, CSS, JavaScript, SQL  
-- 🛠 **Tools & Databases:** Git, GitHub, MySQL, PostgreSQL  
-- 📚 **Currently Learning:** Data Structures & Algorithms, OOP with Java  
+- 💻 **Languages & Technologies:** C++, Python, HTML, CSS, JavaScript, Java,  SQL  
+- 🛠 **Tools & Databases:** Git, GitHub, MySQL, PostgreSQL, MongoDB  
+- 📚 **Currently Learning:** Data Structures & Algorithms, Advanced Programming with Java  
+- 🧠 **Tech Stack:** `Node.js` `Express.js`  
 - 🎯 **Goals:** Build projects, improve problem-solving skills, and grow as a software engineer  
-- 🏆 **Competitive Programming:** Solved 125+ problems on [LeetCode](https://leetcode.com/AmanuelLeet) and [Codeforces](https://codeforces.com/profile/ZeAman77H)  
+- 🏆 **Competitive Programming:** 
+    - Solved 700+ problems on [LeetCode](https://leetcode.com/AmanuelLeet) and [Codeforces](https://codeforces.com/profile/ZeAman77H)  
+    - Codeforces max rating: 1217
 
 I’m always looking to learn, collaborate, and contribute to meaningful projects.  
 
 Feel free to connect with me!
-- 📫 How to reach me: [amanuelhabtamuabera28@gmail.com](mailto:amanuelhabtamuabera28@gmail.com)
+📫 How to reach me: 
+    - Email: [amanuelhabtamuabera28@gmail.com](mailto:amanuelhabtamuabera28@gmail.com)
+    - Telegram: [@ZeAman77](https://t.me/ZeAman77)
 
 
 <!--
